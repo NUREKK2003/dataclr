@@ -4,3 +4,5 @@ dataclr.egg-info
 build
 dist
 logs
+main.py
+*.csv
